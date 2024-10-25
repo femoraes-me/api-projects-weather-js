@@ -1,1 +1,1 @@
-# api-projects-weather-js
+# wheater-js-api
